@@ -1,1 +1,1 @@
-# skeleton
+# react-ssr-example
